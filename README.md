@@ -2,7 +2,7 @@
 Another algorithmic project because I suck at algorithms 
 
 
-*Some students of the School of Wizardry have created Hex, a thinking machine. It is composed of ants for calculus, bee-hives and bees for memory and a mouse for (.. Huh, right, what for already?) cheese (to feed the mouse) and a feather for writing. (a novel that inspired this project is also included. Thanks, Terry Pratchett.*
+*Some students of the School of Wizardry have created Hex, a thinking machine. It is composed of ants for calculus, bee-hives and bees for memory and a mouse for (.. Huh, right, what for already?) cheese (to feed the mouse) and a feather for writing. (a novel that inspired this project is also included. Thanks, Terry Pratchett).*
 
 Resources:
 
